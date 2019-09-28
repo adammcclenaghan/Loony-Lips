@@ -1,2 +1,1 @@
-Godot project created while following 'Discovering Godot' course from [Udemy]
-(https://www.udemy.com/course/godot/?gclid=Cj0KCQjw5rbsBRCFARIsAGEYRwdWI4PCIsGRz5W7QQ2BEIw_G3Nsu7CdTYH9ARJDaJhmbhLrJqQcFSYaAsydEALw_wcB&matchtype=b&utm_campaign=LongTail_la.EN_cc.UK&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_76288949676_._ad_375954070514_._kw__._de_c_._dm__._pl__._ti_aud-632926098907:dsa-787269366885_._li_9045206_._pd__._)
+Godot project created while following 'Discovering Godot' course from [Udemy](https://www.udemy.com/course/godot/)
